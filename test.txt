@@ -1,1 +1,2 @@
 test for hipchat commit hook
+test 2
